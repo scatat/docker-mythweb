@@ -1,4 +1,4 @@
-FROM ubuntu/xenial
+FROM ubuntu/16.04
 
 VOLUME /etc/apache2/sites-available
 
